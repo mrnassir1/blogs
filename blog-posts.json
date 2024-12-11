@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "My First Blog Post",
+    "excerpt": "Welcome to my personal blog! Here's a glimpse into my world...",
+    "content": "Full blog post content...",
+    "date": "December 11, 2024",
+    "author": "Your Name"
+  },
+  {
+    "id": 2,
+    "title": "My First Blog Post",
+    "excerpt": "Welcome to my personal blog! Here's a glimpse into my world...",
+    "content": "Full blog post content...",
+    "date": "December 11, 2024",
+    "author": "Your Name"
+  }
+]
