@@ -16,5 +16,41 @@
     "date": "December 13, 2024",
     "author": "Your Name",
     "thumbnail": "https://imgs.search.brave.com/H3mLk58AVBKlAzkz_7-zPxLZxLDZzSDLoQlqQ2pCqdM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA5Lzc2LzE0Lzc0/LzM2MF9GXzk3NjE0/NzQzNl9Xd0J3OW9E/MHZzWjN1UndtSWcx/aWVJbFVqaVhZSEI4/dS5qcGc"
-  }
+  },
+  {
+    "id": 3,
+    "title": "My First Blog Post",
+    "excerpt": "A brief introduction to my blog...",
+    "content": "Full blog post content goes here...",
+    "date": "December 12, 2024",
+    "author": "Your Name",
+    "thumbnail": "https://imgs.search.brave.com/H3mLk58AVBKlAzkz_7-zPxLZxLDZzSDLoQlqQ2pCqdM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA5Lzc2LzE0Lzc0/LzM2MF9GXzk3NjE0/NzQzNl9Xd0J3OW9E/MHZzWjN1UndtSWcx/aWVJbFVqaVhZSEI4/dS5qcGc"
+  },
+  {
+    "id": 4,
+    "title": "My First Blog Post",
+    "excerpt": "A brief introduction to my blog...",
+    "content": "Full blog post content goes here...",
+    "date": "December 12, 2024",
+    "author": "Your Name",
+    "thumbnail": "https://imgs.search.brave.com/H3mLk58AVBKlAzkz_7-zPxLZxLDZzSDLoQlqQ2pCqdM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA5Lzc2LzE0Lzc0/LzM2MF9GXzk3NjE0/NzQzNl9Xd0J3OW9E/MHZzWjN1UndtSWcx/aWVJbFVqaVhZSEI4/dS5qcGc"
+  },
+  {
+    "id": 5,
+    "title": "My First Blog Post",
+    "excerpt": "A brief introduction to my blog...",
+    "content": "Full blog post content goes here...",
+    "date": "December 12, 2024",
+    "author": "Your Name",
+    "thumbnail": "https://imgs.search.brave.com/H3mLk58AVBKlAzkz_7-zPxLZxLDZzSDLoQlqQ2pCqdM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA5Lzc2LzE0Lzc0/LzM2MF9GXzk3NjE0/NzQzNl9Xd0J3OW9E/MHZzWjN1UndtSWcx/aWVJbFVqaVhZSEI4/dS5qcGc"
+  },
+  {
+    "id": 6,
+    "title": "My First Blog Post",
+    "excerpt": "A brief introduction to my blog...",
+    "content": "Full blog post content goes here...",
+    "date": "December 12, 2024",
+    "author": "Your Name",
+    "thumbnail": "https://imgs.search.brave.com/H3mLk58AVBKlAzkz_7-zPxLZxLDZzSDLoQlqQ2pCqdM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA5Lzc2LzE0Lzc0/LzM2MF9GXzk3NjE0/NzQzNl9Xd0J3OW9E/MHZzWjN1UndtSWcx/aWVJbFVqaVhZSEI4/dS5qcGc"
+  },
 ]
