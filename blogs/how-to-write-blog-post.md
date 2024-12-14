@@ -4,7 +4,7 @@ title: How to Write the Perfect Blog Post
 date: December 15, 2024
 author: Your Name
 excerpt: A comprehensive guide to crafting compelling and professional blog content
-thumbnail: [/path/to/thumbnail-image.jpg](https://imgs.search.brave.com/H3mLk58AVBKlAzkz_7-zPxLZxLDZzSDLoQlqQ2pCqdM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA5Lzc2LzE0Lzc0/LzM2MF9GXzk3NjE0/NzQzNl9Xd0J3OW9E/MHZzWjN1UndtSWcx/aWVJbFVqaVhZSEI4/dS5qcGc)
+thumbnail: https://imgs.search.brave.com/H3mLk58AVBKlAzkz_7-zPxLZxLDZzSDLoQlqQ2pCqdM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA5Lzc2LzE0Lzc0/LzM2MF9GXzk3NjE0/NzQzNl9Xd0J3OW9E/MHZzWjN1UndtSWcx/aWVJbFVqaVhZSEI4/dS5qcGc
 ---
 
 # How to Write the Perfect Blog Post: A Comprehensive Guide
